@@ -1,2 +1,2 @@
 # godot-workspace
-some bullshit
+repository for godot projects
